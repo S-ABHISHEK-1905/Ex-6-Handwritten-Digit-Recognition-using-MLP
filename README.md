@@ -146,7 +146,8 @@ def test_prediction(index, W1, b1, W2, b2):
 ## Output :
  ## Y_TRAIN:
  
- https://user-images.githubusercontent.com/94165326/281621426-9252230c-ef9f-485d-9d9e-563eb7834a66.png
+![image](https://github.com/pavizhi/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/95067176/d738662e-b4d9-4dd5-ac80-ad43b697c7d5)
+
  
  ## ITERATIONS FROM 1-100:
  
