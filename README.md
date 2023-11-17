@@ -1,4 +1,4 @@
-![image](https://github.com/pavizhi/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/95067176/0f8f3d5d-17c5-4373-b9f2-258656570218)# Skill Assisessment-Handwritten Digit Recognition using MLP
+# Skill Assisessment-Handwritten Digit Recognition using MLP
 ## Aim:
        To Recognize the Handwritten Digits using Multilayer perceptron.
 ##  EQUIPMENTS REQUIRED:
