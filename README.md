@@ -3,7 +3,7 @@
        To Recognize the Handwritten Digits using Multilayer perceptron.
 ##  EQUIPMENTS REQUIRED:
 Hardware – PCs
-Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
+Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook.
 ## Theory:
 Handwriting recognition is the ability of a computer to receive and interpret intelligible handwritten input from sources such as paper documents, photographs, touch-screens, and other devices. There are many techniques to that have been developed to recognize the handwriting. One of them is Handwritten Digit Recognition. In this project, we would be using Machine Learning classifier Multi-layer Perceptron Neural Network.
 
